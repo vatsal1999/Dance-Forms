@@ -2,7 +2,7 @@
 """
 Created on Tue May 26 09:22:20 2020
 
-@author: admin
+@author: Vatsal
 """
 
 import keras
